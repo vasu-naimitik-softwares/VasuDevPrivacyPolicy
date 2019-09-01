@@ -29,6 +29,7 @@ body {
     line-height: 1.2;
     color: #3D4852;
     margin-bottom: 40px;
+    font-size: 16px;
 }
 
 h2 {
@@ -40,7 +41,6 @@ h2 {
 
 p {
     font-weight: 100;
-    font-size: 16px;
     margin: 10px;
 }
 
