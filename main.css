@@ -26,19 +26,29 @@ html {
 body {
     max-width: 960px;
     margin: auto;
+    line-height: 1.2;
+    color: #3D4852;
+    margin-bottom: 40px;
 }
 
 h2 {
     font-size: 40px;
     font-weight: 400;
     color: #17191a;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px;
 }
 
 p {
-    color: #3D4852;
     font-weight: 100;
-    font-size: 20px;
-    margin-top: 10px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+p>strong {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+ul {
+    margin: 10px;
 }
